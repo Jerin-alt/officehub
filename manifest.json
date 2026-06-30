@@ -1,0 +1,24 @@
+{
+  "name": "OfficeHub Portal",
+  "short_name": "OfficeHub",
+  "description": "Real-time communication and file sharing system for office local networks.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme-color": "#6366f1",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 24 24' fill='none'><rect width='24' height='24' rx='5' fill='%236366f1'/><path d='M12 4L3 9.5L12 15L21 9.5L12 4Z' fill='white'/><path d='M3 15L12 20L21 15' stroke='white' stroke-width='2'/><path d='M3 12L12 17L21 12' stroke='white' stroke-width='2'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 24 24' fill='none'><rect width='24' height='24' rx='5' fill='%236366f1'/><path d='M12 4L3 9.5L12 15L21 9.5L12 4Z' fill='white'/><path d='M3 15L12 20L21 15' stroke='white' stroke-width='2'/><path d='M3 12L12 17L21 12' stroke='white' stroke-width='2'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
